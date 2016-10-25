@@ -1,14 +1,6 @@
 ## Data visualization of global piracy rates from 2005 to 2009 using WebGL Globe.
 
-
-
-
-
-
-
-
-
-
+[Link to Live Version](https://www.google.com "Global Piracy Rates")
 
 The **WebGL Globe** is an open platform for geographic data visualization created by the Google Data Arts Team. We encourage you to copy the code, add your own data, and create your own globes.
 
