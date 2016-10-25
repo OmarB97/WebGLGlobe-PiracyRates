@@ -1,6 +1,8 @@
 ## Data visualization of global piracy rates from 2005 to 2009 using WebGL Globe.
 
+<p align="center">
 [Link to Live Version](https://www.google.com "Global Piracy Rates")
+</p>
 
 ---
 
