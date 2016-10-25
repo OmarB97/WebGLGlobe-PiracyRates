@@ -2,6 +2,7 @@
 
 <p style="text-align:center;">Link to Live Version</p>
 
+<center><a href="https://piracyrates.herokuapp.com">Link to Live Version</a></center>
 
 ---
 
